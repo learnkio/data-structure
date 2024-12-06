@@ -4,15 +4,15 @@
   </a>
 </p>
 
-<h1 align="center" style="font-size: 40px; color: #67b6c4">ساختمان داده</h1>
+<h1 align="center" style="font-size: 40px">ساختمان داده</h1>
 
 <div style="text-align: center; font-size: 17px; line-height: 1.6; font-family: Arial, sans-serif;">
   <strong style="font-size: 22px">استاد رضا احسن - ادیت 98</strong> <br>
   <span style="color: white;">بازنویسی توسط امیرحسین سلیمانی</span>
 </div>
+ <!-- fsf -->
 
-
-<h2 align="center" style="font-size: 28px; color: #67b6c4">فهرست مطالب</h2>
+<h2 align="center" style="font-size: 28px">فهرست مطالب</h2>
 
 - مقدمه
 - جلسه اول
