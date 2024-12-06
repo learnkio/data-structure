@@ -15,7 +15,7 @@
 <h2 align="center" style="font-size: 28px">فهرست مطالب</h2>
 
 - [مقدمه](https://github.com/learnkio/data-structure/blob/main/lessons/intro.md)
-- جلسه اول
+- [جلسه اول](https://github.com/learnkio/data-structure/blob/main/lessons/session1.md)
     - پیچیدگی زمانی
     - استفاده از سیگما
     - حل چند مثال
